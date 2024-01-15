@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **Poker night with my buddies is one of my favorite ways to unwind. I am no gambler.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let;s connect</h3>
 <p align="left">
 </p>
 
