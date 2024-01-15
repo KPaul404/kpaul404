@@ -1,10 +1,10 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)](https://rishavchanda.io)
+[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm Paul N. Kamau</h1>
 <h3 align="center">I am passionate about Engineering and Data Science</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:918/1*U3WRRwLx3zeDkHmIVGLJdw.gif">
+<img align="right" alt="Coding" width="400" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpaul404" alt="kpaul404" /></a> </p>
 
