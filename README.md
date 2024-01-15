@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)](https://rishavchanda.io)
 
 
-<h1 align="center">Hi 👋, I'm Paul N. Kamau</h1>
+<h1 align="center">Hi 👋, I'm Paul</h1>
 <h3 align="center">I am passionate about Engineering and Data Science</h3>
 
 <img align="right" alt="Coding" width="400" src="https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif">
