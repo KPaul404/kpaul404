@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpaul404" alt="kpaul404" /></a> </p>
 
-- 🔭 I’m currently working on a **Movie Recommender System**
+- 🔭 I’m currently working on an **E-commerce chatbot**
 
 - 🌱 I’m currently learning **Advanced Machine Learning and Neural Networks**
 
