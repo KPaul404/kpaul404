@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpaul404" alt="kpaul404" /></a> </p>
 
-- 🔭 I’m currently working on an **E-commerce chatbot**
+- 🔭 I’m currently working on a **chatbot**
 
-- 🌱 I’m currently learning **Advanced Machine Learning and Neural Networks**
+- 🌱 I’m currently learning **Advanced Machine Learning and Integration of Llms in workspaces**
 
 - 📫 How to reach me **ngangapaulk@gmail.com**
 
