@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Integration of Llms in workspaces**
 
-- 📫 How to reach me **ngangapaulk@gmail.com**
+- 📫 How to reach me **sharptrendzcorner@gmail.com**
 
 - ⚡ Fun fact **Poker night with my buddies is one of my favorite ways to unwind. I am no gambler.**
 
