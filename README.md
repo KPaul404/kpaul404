@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kpaul404" alt="kpaul404" /></a> </p>
 
-- 🔭 I’m currently working on **Some really cool stuff :)**
+- 🔭 I’m currently working on **KenyaLearn AI and Some really cool stuff :)**
 
-- 📫 How to reach me **sharptrendzcorner@gmail.com**
+- 📫 How to reach me **ngangapaulkamau@gmail.com**
 
 - ⚡ Fun fact **Poker night with my buddies is one of my favorite ways to unwind. I am no gambler.**
 
